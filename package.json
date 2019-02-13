@@ -1,0 +1,8 @@
+{
+  "name": "node-remove-dir",
+  "version": "1.0.0",
+  "main": "lib/remove-dir.js",
+  "dependencies": {
+    "fs-extra": "7.0.1"
+  }
+}
